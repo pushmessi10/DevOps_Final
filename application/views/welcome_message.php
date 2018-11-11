@@ -3,20 +3,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-/*	<meta charset="utf-8">
+	<meta charset="utf-8">
 	<title>VPV</title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/jquery-ui.min.css">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/styles.css">
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.min.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery-ui.theme.min.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/script.js"></script> */
+	
+<body background="https://www.ourstyle.life/wp-content/uploads/2017/11/dancing-feet.jpg">	
 </head>
 
 <!-- Creating Form -->
-
+<meta charset="utf-8">
+	
 <body bgcolor="white"><center><font size=5><body>
 
 <div id="header">
@@ -28,42 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 	<div class="row">
 	<form action="/welcome/book" method="POST">
-/*	  <div class="form-group">
-		<label for="exampleInputEmail1">Email address</label>
-		<input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-	  </div>
-	  <div class="form-group">
-		<label for="passengers">Number of passengers</label>
-		<select class="form-control" name="passengers" id="passengers">
-		  <option>1</option>
-		  <option>2</option>
-		  <option>3</option>
-		  <option>4</option>
-		</select>
-	  </div>
-	  <div class="form-group">
-	  	<label for="departure">Departure date</label>
-	  	<input type="text" id="datepicker" name="departure">
-	  </div>
-	  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
-	</div>
-	</div>
-	</div>
-	</div>
-	<div class="row">
-                <h5><i>...    You either die a hero or you live long enough to see yourself become the villain.</h5>
-	</i></div>
-        <div class="row">
-		
-	<div class="row">
-                <h5><i>......    It's not about money, it's about sending a message. Remember everything burns away!!!</h5>
-	</i></div>
-        <div class="row">
 
-</form>
-	</div>
-</div> */
 </form>
 <b><h2>REGISTRATION FORM</h2></b></center>
 <table border=1 align=center bgcolor="Lavender" cellpadding=20px><br>
