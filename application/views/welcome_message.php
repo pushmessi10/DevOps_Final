@@ -12,7 +12,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!-- Creating Form -->
 <meta charset="utf-8">
 	
-<body bgcolor="white"><center><font size=5><body>
 
 <div id="header">
 	
