@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta charset="utf-8">
 	<title>VPV</title>
 	
-<body background="https://www.ourstyle.life/wp-content/uploads/2017/11/dancing-feet.jpg">	
+<body background="https://lwld.files.wordpress.com/2016/04/dance-show-2016-006.jpg">	
 </head>
 
 <!-- Creating Form -->
