@@ -53,7 +53,7 @@ size=30 maxlength=30></td>
         </tr>
         <tr>
         <td>Phone_No :</td> <td><input type = "text" name = 
-"Phone No" size=30 maxlength=30></td>
+"Phone_No" size=30 maxlength=30></td>
         </tr>
         <tr>
         <td>Address :</td><td><textarea name="Address" 
