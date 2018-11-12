@@ -38,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </tr>
                         <tr>
                                 <td><em>Dance_Type</em></td>
-                                <td><?php echo $Dance_type ?></td>
+                                <td><?php echo $dance_type ?></td>
                         </tr>
                 </table>
         </div>
