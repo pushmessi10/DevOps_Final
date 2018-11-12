@@ -43,8 +43,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </table>
         </div>
         <div class="row">
-                <button type="button" id="back" class="btn
-btn-primary">Make new registration</button>
+                <button type="button" id="back" class="btn btn-primary">Make new registration</button>
         </div>
 </div>
 
