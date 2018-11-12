@@ -30,7 +30,7 @@ class Welcome extends CI_Controller {
 	public function book(){
 		$form_data = $this->input->post();
 		$data['Name'] = $this->input->post("Name");
-		$data['Phone No'] = $this->input->post("Phone_No");
+		$data['Phone_No'] = $this->input->post("Phone_No");
 		$data['Address'] = $this->input->post("Address");
                 $data['Email'] = $this->input->post("Email");
                 $data['date'] = $this->input->post("DOB");
