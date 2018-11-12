@@ -38,7 +38,7 @@ class Welcome extends CI_Controller {
 		$data['dob'] = $data['dob'].$this->input->post("Month");
 		$data['dob'] = $data['dob']."-";
                 $data['dob'] = $data['dob'].$this->input->post("date");
-                $data['dance_Type'] = $this->input->post("dance_type");
+                $data['dance_type'] = $this->input->post("dance_type");
 		// $departure = date('Y-m-d H:i:s',strtotime($this->input->post("departure")));
 		// $data['departure'] = $departure;
 		$this->load->model('Booking');
