@@ -33,7 +33,11 @@ class Welcome extends CI_Controller {
 		$data['Phone_No'] = $this->input->post("Phone_No");
 		$data['Address'] = $this->input->post("Address");
                 $data['Email'] = $this->input->post("Email");
-                $data['dob'] = $this->input->post("date");
+                $data['dob'] = $this->input->post("year");
+		$data['dob']."-";
+		$data['dob'].$this->input->post("month");
+		$data['dob']."-";
+                $data['dob'].$this->input->post("date");
                 $data['Dance_Type'] = $this->input->post("dance_type");
 		// $departure = date('Y-m-d H:i:s',strtotime($this->input->post("departure")));
 		// $data['departure'] = $departure;
