@@ -137,7 +137,7 @@ id="Address" size=30 maxlength=30></textarea> </td>
         
         <tr><td> 
         Dance_Type:
-        <td><select name="dance_type"> 
+        <td><select name="dance_type" id="dance_type"> 
         <option value="-1" selected>select..</option> 
         <option value="Bharatnatyam">Bharatnatyam</option> 
         <option value="Hip-Hop">Hip-Hop</option>
