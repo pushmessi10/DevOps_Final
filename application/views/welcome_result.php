@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </tr>
                         <tr>
                                 <td><em>Phone_No</em></td>
-                                <td><?php echo $Phone No ?></td>
+                                <td><?php echo $Phone_No ?></td>
                         </tr>
                         <tr>
                                 <td><em>Address</em></td>
@@ -34,7 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </tr>
                         <tr>
                                 <td><em>DOB</em></td>
-                                <td><?php echo $date ?></td>
+                                <td><?php echo $dob ?></td>
                         </tr>
                         <tr>
                                 <td><em>Dance_Type</em></td>
