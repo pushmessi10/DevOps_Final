@@ -30,10 +30,11 @@ class Welcome extends CI_Controller {
 	public function book(){
 		$form_data = $this->input->post();
 		$data['email'] = $this->input->post("email");
-		$data['name'] = $this->input->post("username");
-		$data['passengers'] = $this->input->post("passengers");
-		$departure = date('Y-m-d H:i:s',strtotime($this->input->post("departure")));
-		$data['departure'] = $departure;
+		$data['name'] = $this->input->post("Name");
+		$data['datepicker'] = $this->input->post("DOB");
+		// $departure = date('Y-m-d H:i:s',strtotime($this->input->post("departure")));
+		$data['address'] = $Address;
+        $data['type'] = $Dance_Type;
 		$this->load->model('Booking');
 		$this->Booking->save($data);
 		$this->load->view('welcome_result', $data);
