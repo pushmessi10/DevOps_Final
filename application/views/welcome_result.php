@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <div class="container">
         <div class="row">
-                <p>Thank you for the registration. Here are your registration details.</p>
+                <h3>Thank you for the registration. Here are your registration details.</h3>
         </div>
         <div class="row">
                 <table class="table">
@@ -42,9 +42,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </tr>
                 </table>
         </div>
-        <div class="row">
-                <button type="button" id="back" class="btn btn-primary">Make new registration</button>
-        </div>
+       
 </div>
 
 </body>
