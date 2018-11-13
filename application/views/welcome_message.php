@@ -143,6 +143,7 @@ id="Address" size=30 maxlength=30></textarea> </td>
         <option value="Hip-Hop">Hip-Hop</option>
         <option value="Bollywood">Bollywood</option>
         <option value="Jazz">Jazz</option> 
+        <option value="Slow-Mo">Slow-Mo</option>         
         </select></td> 
         </td></tr> 
 
