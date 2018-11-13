@@ -41,8 +41,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <td><?php echo $dance_type ?></td>
                         </tr>
                 </table>
-        </div>
-       
+        </div><br>
+       <div class="row">
+		<button type="button" id="back" class="btn btn-primary">Make new booking</button>
+	</div>
 </div>
 
 </body>
