@@ -5,6 +5,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
         <meta charset="utf-8">
         <title>VPV</title>
+        <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/styles.css">
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery-ui.theme.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/script.js"></script>
 </head>
 <body>
 <div id="header">
