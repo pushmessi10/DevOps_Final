@@ -5,7 +5,7 @@ allowed');
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <title>Pushkar</title>
+        <title>Dance_Classes</title>
         <script language="javascript">
 
                 function verify() 
@@ -53,7 +53,7 @@ size=30 maxlength=30></td>
         </tr>
         <tr>
         <td>Phone_No :</td> <td><input type = "text" name = 
-"Phone No" size=30 maxlength=30></td>
+"Phone_No" size=30 maxlength=30></td>
         </tr>
         <tr>
         <td>Address :</td><td><textarea name="Address" 
@@ -107,23 +107,25 @@ id="Address" size=30 maxlength=30></textarea> </td>
           
         <select id="Month" name="Month"> 
         <option value="-1">Month:</option> 
-        <option value="January">Jan</option> 
-        <option value="February">Feb</option> 
-        <option value="March">Mar</option> 
-        <option value="April">Apr</option> 
-        <option value="May">May</option> 
-        <option value="June">Jun</option> 
-        <option value="July">Jul</option> 
-        <option value="August">Aug</option> 
-        <option value="September">Sep</option> 
-        <option value="October">Oct</option> 
-        <option value="November">Nov</option> 
-        <option value="December">Dec</option> 
+        <option value="1">Jan</option> 
+        <option value="2">Feb</option> 
+        <option value="3">Mar</option> 
+        <option value="4">Apr</option> 
+        <option value="5">May</option> 
+        <option value="6">Jun</option> 
+        <option value="7">Jul</option> 
+        <option value="8">Aug</option> 
+        <option value="9">Sep</option> 
+        <option value="10">Oct</option> 
+        <option value="11">Nov</option> 
+        <option value="12">Dec</option> 
         </select> 
           
         <select name="Year" id="Year"> 
           
         <option value="-1">Year:</option> 
+        <option value="1992">1992</option>
+        <option value="1993">1993</option>       
         <option value="1994">1994</option> 
         <option value="1995">1995</option> 
         <option value="1996">1996</option> 
@@ -137,12 +139,13 @@ id="Address" size=30 maxlength=30></textarea> </td>
         
         <tr><td> 
         Dance_Type:
-        <td><select name="dance_type"> 
+        <td><select name="dance_type" id="dance_type"> 
         <option value="-1" selected>select..</option> 
         <option value="Bharatnatyam">Bharatnatyam</option> 
         <option value="Hip-Hop">Hip-Hop</option>
         <option value="Bollywood">Bollywood</option>
         <option value="Jazz">Jazz</option> 
+        <option value="Slow-Mo">Slow-Mo</option>         
         </select></td> 
         </td></tr> 
 
