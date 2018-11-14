@@ -39,7 +39,10 @@ allowed');
 <body 
 background="https://previews.123rf.com/images/pitta/pitta1506/pitta150600056/41494401-bokeh-light-color-background.jpg">
 
-        <center><b><h1 style="color:rgba(7, 7, 2, 
+        <center><b>
+                <h1 style="color:rgba(7, 7, 2, 
+0.527);">VPV DANCE CLASSES</h1></b></center>
+                <h1 style="color:rgba(7, 7, 2, 
 0.527);">REGISTRATION FORM</h1></b></center>
         <center><h3>Please fill the following form to complete 
 registration.</h3></center>
