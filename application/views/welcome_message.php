@@ -5,7 +5,7 @@ allowed');
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <title>Pushkar</title>
+        <title>Pushkar_Project</title>
         <script language="javascript">
 
                 function verify() 
