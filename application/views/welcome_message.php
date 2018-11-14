@@ -5,7 +5,7 @@ allowed');
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <title>Vipul_Dance_Classes</title>
+        <title>Dance_Classes</title>
         <script language="javascript">
 
                 function verify() 
@@ -40,7 +40,7 @@ allowed');
 background="https://previews.123rf.com/images/pitta/pitta1506/pitta150600056/41494401-bokeh-light-color-background.jpg">
 
         <center><b><h1 style="color:rgba(7, 7, 2, 
-0.527);">Welcome to Vipul Dance Classes!!!  REGISTRATION FORM</h1></b></center>
+0.527);">REGISTRATION FORM</h1></b></center>
         <center><h3>Please fill the following form to complete 
 registration.</h3></center>
         <table border=1 align=center bgcolor="Lavender" 
